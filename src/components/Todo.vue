@@ -47,14 +47,10 @@ const removeTodo = (todo) => {
 .todo-card {
     position: relative;
     background-color: #333;
-    /* Dark background color */
     color: white;
-    /* White text color */
     padding: 20px;
     border: 2px solid #555;
-    /* Dark border */
     border-radius: 8px;
-    /* Rounded corners */
     margin-bottom: 20px;
 }
 
@@ -79,13 +75,11 @@ const removeTodo = (todo) => {
 .todo-card h3 {
     margin-top: 15px;
     font-size: 1.5rem;
-    /* Adjust as needed */
 }
 
 .todo-card p {
     margin-bottom: 0;
     font-size: 1.2rem;
-    /* Adjust as needed */
     line-height: 1.6;
 }
 </style>
